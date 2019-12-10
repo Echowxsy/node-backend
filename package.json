@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Backend Based on Koa & TypeScript",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Echowxsy",
+  "license": "GPL"
+}
